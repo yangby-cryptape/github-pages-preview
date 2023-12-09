@@ -1,7 +1,11 @@
-# My Static Site
+# Preview for My Static Sites
 
 [![CC BY-NC-SA 4.0][CC BY-NC-SA 4.0 Badge]][CC BY-NC-SA 4.0 License]
 [![GNU AGPLv3][GNU AGPLv3 Badge]][GNU AGPLv3 License]
+
+This repository is used to temporarily preview my static sites.
+
+All files in this repository are temporary, and will be force-pushed to overwrite after preview.
 
 ## License
 
